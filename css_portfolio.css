@@ -1,0 +1,12 @@
+html{
+    background-color: bisque;
+}
+section div p span{
+    margin-top: 10px;
+}
+.card{
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 40%;
+}
